@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Shuang Li</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+</td>
+<td id="layout-content">
+
+
+<h2>Research Interests</h2>
+<p> My long-term goal is to create AI systems that can distill knowledge smartly from sequential data and make effective decisions on the fly.
+    I am interested in designing AI tools that will work in both <i>small</i> and <i>big</i> data regimes.
+    I aim to create AI systems that can resemble human intelligence to recognize patterns given short sequences, quickly detect and adapt to changes in environments,
+    and fully utilize large volumes of data by leveraging modern data storage and computation.</p>
+
+<p>  My research has yielded new <i>sequential data analysis</i> and <i>decision-making</i> tools, all inspired and motivated by applications in
+    <i>healthcare</i>, <i>smart cities</i> and <i>social media</i>.
+    Modern systems in these areas continually produce large amounts of data that are recorded either as regularly spaced <i>time series</i> or irregularly spaced discrete <i>events</i>.
+    These data often exhibit complex spatial and temporal patterns, and are rich in other features (e.g., markers or texts).
+    The complexity and volume of such data make traditional time-series methods too restricted to model such data, inefficient in learning, and inaccurate in inference.</p>
+
+<p> I develop new methodological frameworks that elegantly combine <i>deep learning</i>, <i>time series analysis</i> and <i>point processes</i> to address these challenges.
+    I also conduct research that achieves online accurate prediction, reliable detection and smart interventions.
+    The new AI tools that my research develops are tools for social good: they allow me to address societal challenges and meaningfully improve people’s lives.</p>
+
+
+<p>More specifically, my research focuses on:
+<ul>
+<li><p>Novel <i>models</i> to capture complex dynamics in sequences</p>
+</li>
+<li><p>Reliable and efficient <i>learning</i> methods to uncover latent model parameters</p>
+</li>
+<li><p>Effective <i>inference</i> procedures based on these models to perform accurate prediction, reliable detection, and smart interventions</p>
+</li>
+</ul>
+<h3>Novel Sequential Models</h3>
+<p>An AI system must fundamentally understand the world. Modeling sequential data is critical yet challenging in AI perception systems.
+    The challenges can be due to the asynchronous nature of events, complex spatial and temporal dynamics, and additional high dimensional markers or features associated with each event.
+    I developed models to address these challenges, focusing in particular on modeling asynchronous events in a continuous-time fashion that fits into various data collection scenarios.
+    My models can accommodate the presence of latent variables, evolving and networked interaction structures, and nonparametric event occurrence intensities in big or small data regimes.</p>
+
+<p>Below I highlight a recent work:
+<ul>
+<li> <p><b> Temporal Logic Point Processes</b>.
+<br /> S. Li, L. Wang, R. Zhang, X. Chang, X. Liu, Y. Xie, Y. Qi, and L. Song
+<br /> <i>International Conference on Machine Learning</i> (ICML), 2020. [<a href="http://proceedings.mlr.press/v119/li20p/li20p.pdf">Link</a>]</p>
+</li>
+</ul>
+</p>
+
+
+
+<p style="text-align:center;"><img src="temporal_logic.pdf" alt="Logo" width="600" height="320"></p>
+
+
+<p> For environments where there is <i>small</i> data and <i>domain knowledge</i>  is critical, I proposed a logic-informed modeling framework for event data in this paper.
+    Our framework is a recipe for translating temporal logic rules provided by human experts (regarded as facts) to the function form of event intensity, where intensity structures encode the temporal logic rules as prior knowledge.
+    Our framework converts these hard constraints to a softened and weighted combination of temporal relations that drive the generative mechanism of sequential events. Our model is transparent, interpretable, and enables knowledge transfer.
+    When evaluated on electronic health records and credit card transaction data, our model outperformed neural-based event models in predicting patients’ status and identifying rare fraud transactions in the small data regime.</p>
+
+
+<h3>Reliable and Efficient Learning</h3>
+<p>For these novel sequential models, it is challenging to uncover model parameters reliably and at scale due to the complexity of the model and the volume of the data.
+    I also developed efficient, stable, and tractable learning algorithms for these models. </p>
+
+<p>Below I highlight a representative work:
+<ul>
+<li> <p><b> Learning Temporal Point Processes via Reinforcement Learning</b>.
+<br /> S. Li, S. Xiao, S. Zhu, N. Du, Y. Xie, and L. Song
+<br /> <i>Neural Information Processing Systems</i> (NeurIPS), 2018. Spotlight. [<a href="https://papers.nips.cc/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf">Link</a>]</p>
+</li>
+</ul>
+</p>
+
+
+
+<p style="text-align:center;"><img src="rl_pp.pdf" alt="Logo" width="570" height="320"></p>
+
+
+<p> Fitting neural-based event models is a nonconvex problem.
+    I developed a novel <i>generative adversarial reinforcement learning</i>  (imitation learning) framework that <i>eases the training</i>  and <i>alleviates model misspecification</i>  in this paper.
+    In a nutshell, my learning framework operates by sampling pseudo-events from the generative model and directly comparing the pseudo-events with the real events via an introduced nonparametric discrepancy tailored to event data.
+    By closing the discrepancy gap, the generative model is driven to fit the true events until the fake samples and the true observations are indistinguishable.
+    This imitation learning framework has been evaluated on real events from crime, social media, and healthcare; it obtained promising data description and prediction results and it scaled to the growing dataset and dimensions.
+</p>
+
+
+
+
+<h3>Effective Inference Procedures</h3>
+<p>My models and learning algorithms provide good AI tools to understand the environments from observed sequences.
+    When facing complicated or a series of tasks, it is crucial for AI systems to quickly detect and adapt to changing environments and make effective decisions when interacting with the environment.
+    I contributed to this area by designing online procedures that enable reliable and quick change-point detection, smart interventions and recommendation.</p>
+
+<p>Below I highlight a representative work:
+<ul>
+<li> <p><b> Detecting Changes in Dynamic Events over Networks.</b>.
+<br /> S. Li, Y. Xie, M. Farajtabar, A. Verma, and L. Song
+<br /> <i>IEEE Transactions on Signal and Information Processing over Networks.</i> 2017. [<a href="https://arxiv.org/pdf/1603.08981.pdf">Link</a>]</p>
+</li>
+</ul>
+</p>
+
+
+
+<p style="text-align:center;"><img src="pp_detection.pdf" alt="Logo" width="570" height="255"></p>
+
+
+<p> In this paper, I proposed a <i>continuous-time likelihood ratio test statistic</i>  for event data with <i>networked interaction dynamics</i> . The results will have wide applications in social media.
+    The likelihood ratio test statistic achieves weak signal detection by aggregating local statistics over time and networks.
+    For the proposed detection statistics, I also derived the theoretical tail probability approximation, which provides a statistically principled way to determine the detection thresholds.
+    My detection statistics showed excellent performance in detecting and identifying major events on real Twitter and Meme Tracker datasets.
+</p>
+
+<h2>Future Research Plans</h2>
+<p> My future work will be a natural extension of my current research strands with more emphasis on collaborative and interdisciplinary projects.
+    Besides developing methodology, I am also interested in applying these methods to problems arising from complex healthcare, social, economic, and financial systems.
+    I believe the methodologies I develop will have a diverse range of positive impacts and lead to a better society. The following will be my initial focus on research topics.</p>
+
+<h3>Better Sequential Models</h3>
+
+<p> I aim to continue to add transparency and interpretability to sequential models.
+    For example, I am interested in producing neural hybrid sequential models that can incorporate domain knowledge (e.g., logic rules) to optimize learning strategies and/or guide the neural model design.
+    Many existing neural-based sequential models yield notoriously difficult-to-interpret prediction results.
+    I want to create white-box sequential models that can work in both small and big data. In some cases, interpretability is more critical than predictions.
+    For example, in medicine, people are more interested in understanding which treatments contribute to the cures of diseases than in merely predicting the patients’ health status.
+    I believe there are rich opportunities in studying interpretable sequential models in AI to make agents really “intelligent” in perceiving and processing sequences of various types, including audios, videos, and languages.
+</p>
+
+<h3>More Effective Sequential Decision Making</h3>
+<p> Currently, I am collaborating with Dr. Susan Murphy at Harvard University on RL in mobile health.
+    We will develop the first multi-agent RL approaches to coherently personalize multiple mobile intervention components, enabling patients to initiate and sustain the healthy lifestyle choices (e.g., increasing physical activity, smoking cessation).
+    My research will contribute to effective decision-making with humans in the loop, tackling such challenges as delayed or sparse user feedback, user disengagement, and nonstationarity in environment dynamics and rewards.
+    I aim to continue to tackle these fundamental and long-standing challenges in RL, and create more effective sequential decision-making tools.
+    My methods can also be applied to other interactive machine learning applications, such as educating people to increase human potential.
+</p>
+<h3>Interpretable Policies</h3>
+<p> I am also interested in interpretable policies, that is, policies that understand not only which action to take but why it is a good action.
+    I want to use symbolic planning as a descriptive and intuitive high-level technique to improve the data efficiency and interpretability of RL.
+    I aim to propose an elegant framework that can incorporate domain knowledge to drive RL for meaningful exploration and can also learn effective policies from small data.
+    Interpretable policies will add safety to policies and will have wide applications in healthcare, education, and autonomous driving.
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
