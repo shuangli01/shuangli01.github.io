@@ -51,9 +51,9 @@ tt {
 }
 
 pre, tt {
-	color: #EE0000;
+	color: #DD0000;
 	font-size: 100%;
-	font-family: 'Georgia', serif;
+	font-family: Georgia, serif;
 	font-weight: bold;
 }
 
@@ -370,3 +370,30 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+/* Fixed left menu */
+#layout-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  display: block;        /* avoid table-cell quirks */
+  width: 130px;          /* set explicit menu width */
+  height: 100vh;
+  overflow-y: auto;
+
+  box-sizing: border-box;
+  z-index: 1000;
+}
+
+/* Push the entire jemdoc layout table to the right */
+#tlayout {
+  margin-left: 150px;    /* menu width + gap */
+  width: calc(100% - 150px);
+}
+
+/* Optional: if you see a horizontal scrollbar, add this */
+body {
+  overflow-x: hidden;
+}
+

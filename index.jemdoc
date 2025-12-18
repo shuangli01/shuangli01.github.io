@@ -1,0 +1,345 @@
+# jemdoc: menu{MENU}{index.html}, title{Shuang Li | CUHK(SZ)}
+= Shuang Li
+
+~~~
+{}{img_left}{shuang.jpg}{}{240px}{240px}{}
+
+Assistant Professor\n
+[https://sds.cuhk.edu.cn/ School of Data Science]\n
+[https://www.cuhk.edu.cn/ The Chinese University of Hong Kong (Shenzhen)]\n
+Daoyuan Building, 508b\n
+Shenzhen, Guangdong, China\n
+
+Email: lishuang@cuhk.edu.cn
+
+[https://scholar.google.com/citations?user=HxCZsCUAAAAJ&hl=en \[Google Scholar\]] [CV_Shuang.pdf \[Curriculum Vitae\]]
+
+~~~
+
+=== About me
+
+I am an Assistant Professor in the [https://sds.cuhk.edu.cn/en School of Data Science] at
+[https://www.cuhk.edu.cn/en The Chinese University of Hong Kong (Shenzhen)]. Previously, I was a
+postdoctoral fellow at [https://www.harvard.edu/ Harvard University], working on mobile health with
+Prof. [https://people.seas.harvard.edu/~samurphy/ Susan Murphy]. I earned my Ph.D. in Industrial
+Engineering from the [https://isye.gatech.edu H. Milton Stewart School of Industrial & Systems Engineering] at
+[https://www.gatech.edu/ Georgia Tech] in 2019, and earlier, I received B.E. in Automation from the
+[https://en.ustc.edu.cn/ University of Science and Technology of China] in 2011.
+
+~~~
+{}
+I’m recruiting Research Assistants year-round and have 1–2 PhD openings starting Fall 2026.
+If you are interested in working with me and have good programming skills and math background,
+you can contact me via email with your CV.
+~~~
+
+=== Research Interests
+
+My research delves into the development of knowledge-enhanced sequential models and sequential decision tools, which prioritize interpretability and trustworthiness in machine learning.
+More specifically, my research focuses on:
+
+- Knowledge-Enhanced Sequential Models: By integrating domain-specific knowledge into
+  machine learning algorithms, we aim to facilitate transparent decision-making processes and
+  to create robust and reliable frameworks applicable in high-stakes systems.
+- Human Cognitive Process Modeling: By incorporating Theory of Mind and spatial-temporal
+  logical reasoning into AI systems, we aim to enable effective collaboration between humans and AI.
+- Applications in Healthcare: We aim to apply machine learning tools to improve healthcare
+  policies, clinical workflows, and patient outcomes through informed decision-making.
+
+{{<a id="publications"></a>}}
+== Publications
+
+=== Conference
+
+- [https://openreview.net/pdf?id=bXTBtUjb0c DeepHalo: A Neural Choice Model with Controllable Context Effects].\n
+S. Zhang, Z. Wang, R. Gao and *S. Li*. \n 
+Neural Information Processing Systems (*NeurIPS*), 2025. + (Spotlight) +
+
+- [https://dl.acm.org/doi/10.1145/3736252.3742630 RKHS Choice Model].\n
+Y. Yang, Z. Wang, R. Gao and *S. Li*. \n
+ACM Conference on Economics and Computation (*EC*), 2025.
+
+- Flow-Based Delayed Hawkes Process.\n
+C. Yang, W. Ren and *S. Li*. \n
+Conference on Uncertainty in Artificial Intelligence (*UAI*), 2025.
+
+- Evolving Minds: Logic-Informed Inference from Temporal Action Patterns.\n
+C. Yang, S. Cui, Y. Yang and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2025.
+
+- Convergence of Mean-Field Langevin Stochastic Descent-Ascent for Distributional Minimax Optimization.\n
+Z. Liu, F. Liu, R. Gao and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2025. + (Spotlight) +
+
+- Logic-Logit: A Logic-Based Approach to Choice Modeling.\n
+S. Zhang, W. Ren and *S. Li*. \n
+International Conference on Learning Representations (*ICLR*), 2025.
+
+- HyperLogic: Enhancing Diversity and Accuracy in Rule Learning with HyperNets.\n
+Y. Yang, W. Ren and *S. Li*. \n
+Neural Information Processing Systems (*NeurIPS*), 2024.
+
+- Neuro-Symbolic Temporal Point Processes.\n
+Y. Yang, C. Yang, B. Li, Y. Fu and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2024.
+
+- Latent Logic Tree Extraction for Event Sequence Explanation from LLMs.\n
+Z. Song, C. Yang, C. Wang, B. An and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2024.
+
+- Unveiling Latent Causal Rules: A Temporal Point Process Approach for Abnormal Event Explanation.\n
+Y. Kuang*, C. Yang*, Y. Yang and *S. Li*. \n
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024.
+
+- [https://openreview.net/pdf?id=TWC4gLoAxY Enhancing Human-AI Collaboration Through Logic-Guided Reasoning].\n
+C. Cao, Y. Fu, S. Xu, R. Zhang and *S. Li*. \n
+International Conference on Learning Representations (*ICLR*), 2024.
+
+- [https://arxiv.org/abs/2310.08538 Amortized Network Intervention to Steer Excitatory Point Processes].\n
+Z. Song, W. Ren and *S. Li*. \n
+International Conference on Learning Representations (*ICLR*), 2024.
+
+- [https://arxiv.org/abs/2305.17387 Discovering Intrinsic Spatial-Temporal Logic Rules to Explain Human Actions].\n
+C. Cao, C. Yang, R. Zhang and *S. Li*. \n
+Neural Information Processing Systems (*NeurIPS*), 2023.
+
+- [https://openreview.net/forum?id=ufE3pApEQMA Explaining Point Processes by Learning Interpretable Temporal Logic Rules].\n
+*S. Li*, M. Feng, L. Wang, A. Essofi, Y. Cao, J. Yan and L. Song. \n
+International Conference on Learning Representations (*ICLR*), 2022.
+
+- [https://proceedings.mlr.press/v119/li20e.html Temporal Logic Point Processes].\n
+*S. Li*, L. Wang, R. Zhang, X. Chang, X. Liu, Y. Xie, Y. Qi, and L. Song. \n
+International Conference on Machine Learning (*ICML*), 2020.
+
+- [https://dl.acm.org/doi/10.1145/3340531.3411959 Continuous-Time Dynamic Graph Learning via Neural Interaction Processes].\n
+X. Chang, X. Liu, J. Wen, *S. Li*, Y. Fang, L. Song, and Y. Qi. \n
+The Conference on Information and Knowledge Management (*CIKM*), 2020.
+
+- [https://proceedings.mlr.press/v97/chen19f.html Generative Adversarial User Model for Reinforcement Learning Based Recommendation System].\n
+X. Chen, *S. Li*, H. Li, S. Jiang, Y. Qi, and L. Song. \n
+International Conference on Machine Learning (*ICML*), 2019.
+
+- [https://papers.nips.cc/paper/2018/hash/aa5a72305f3a8a08eabda4b56afc45da-Abstract.html Learning Temporal Point Processes via Reinforcement Learning].\n
+*S. Li*, S. Xiao, S. Zhu, N. Du, Y. Xie, and L. Song. \n
+Neural Information Processing Systems (*NeurIPS*), 2018. + (Spotlight) +
+
+- [https://openreview.net/forum?id=HJ0cZ3A9Km Recurrent Hidden Semi-Markov Model].\n
+H. Dai, B. Dai, Y. Zhang, *S. Li*, and L. Song. \n
+International Conference on Learning Representations (*ICLR*), 2017.
+
+- [https://proceedings.mlr.press/v70/farajtabar17a.html Fake News Mitigation via Point Processes Based Intervention].\n
+M. Farajtabar, J. Yang, X. Ye, R. Trivedi, E. Khalil, *S. Li*, H. Xu, L. Song, and H. Zha. \n
+International Conference on Machine Learning (*ICML*), 2017.
+
+- [https://ieeexplore.ieee.org/document/7852315 Online Seismic Event Picking Via Sequential Change-Point Detection].\n
+*S. Li*, Y. Cao, C. Leamon, Y. Xie, L. Shi, and W. Song. \n
+Allerton Conference on Control, Communications and Computing (*Allerton*), 2016.
+
+- [https://papers.nips.cc/paper/2015/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html M-Statistic for Kernel Change-Point Detection].\n
+*S. Li*, Y. Xie, H. Dai, and L. Song. \n
+Neural Information Processing Systems (*NIPS*), 2015.
+
+- [https://papers.nips.cc/paper/2015/hash/0c68c68cc1e4c52e3f0b3f8a1d0e7e08-Abstract.html Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression].\n
+Y. Liu, *S. Li*, F. Li, L. Song, and J. Rehg. \n
+Neural Information Processing Systems (*NIPS*), 2015.
+
+- [https://papers.nips.cc/paper/2015/hash/752d109dac0c18f2b1bdfd68c52ab4ff-Abstract.html COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
+M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, *S. Li*, H. Zha, and L. Song. \n
+Neural Information Processing Systems (*NIPS*), 2015. + (Oral) +
+
+=== Workshop
+
+- Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis.\n
+Y. Yan, Y. Fu, W. Ren and *S. Li*. \n
+*NeurIPS* Workshop on GenAI4Health, 2025. + (Oral, Best Paper Award) +
+
+- Neural Decision Rule for Constrained Contextual Stochastic Optimization.\n
+Z. Liu, Z. Xu, F. Liu, R. Gao and *S. Li*. \n
+*NeurIPS* Workshop on MLxOR, 2025. + (Spotlight) +
+
+- From Counts to Choice: Choice-Driven Spatial-Temporal Counting Process Models.\n
+C. Yang, Y. Kuang and *S. Li*. \n
+*NeurIPS* Workshop on UrbanAI: Harnessing Artificial Intelligence for Smart Cities, 2025.
+
+- Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis.\n
+Y. Fu, C. Yang, X. Chen, Y. Yan and *S. Li*. \n
+*ICML* Workshop on Collaborative and Federated Agentic Workflows, 2025. + (Oral) +
+
+- Inferring the Invisible: Neuro-Symbolic Rule Discovery for Missing Value Imputation.\n
+W. Ren, K. Wan, J. Leng and *S. Li*. \n
+*ICML* Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains, 2025.
+
+- Deep Context-Dependent Choice Model.\n
+S. Zhang, Z. Wang, R. Gao and *S. Li*. \n
+*ICML* Workshop on Models of Human Feedback for AI Alignment, 2025. + (Oral) +
+
+- Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies.\n
+C. Cao, Y. Fu, C. Yang and *S. Li*. \n
+*ICML* Workshop on Programmatic Representations for Agent Learning, 2025.
+
+- Counterfactual Optimization of Treatment Policies Based on Temporal Point Processes.\n
+Z. Jing, C. Yang and *S. Li*. \n
+*ICML* Workshop on Interpretable Machine Learning in Healthcare, 2023.
+
+- Reinforcement Temporal Logic Rule Learning to Explain the Generating Processes of Events.\n
+C. Yang, L. Wang, Z. Mou and *S. Li*. \n
+*ICML* Workshop on Interpretable Machine Learning in Healthcare, 2022.
+
+- Interpretable Deep Generative Spatio-Temporal Point Processes.\n
+S. Zhu, *S. Li*, Z. Peng, and Y. Xie. \n
+*NeurIPS* Workshop on AI for Earth Sciences, 2020.
+
+- Temporal Logic Point Processes Processes.\n
+*S. Li*, L. Wang, R. Zhang, Y. Xie, N. Du, and L. Song. \n
+*NeurIPS* Workshop on Learning with Temporal Point Processes, 2019. + (Oral) +
+
+- [https://people.mpi-sws.org/~manuelgr/papers/www_2015_workshop_proceedings.pdf Co-evolutionary Dynamics of Information Diffusion and Network Structure].\n
+M. Farajtabar, M. Gomez-Rodriguez, Y. Wang, *S. Li*, H. Zha, and L. Song. \n
+Workshop on Activity and Events in Networks: Models, Methods Applications, in conjunction with *WWW*, 2015.
+
+
+
+=== Journal
+
+- Micro-Randomized Trials for Promoting Engagement in Mobile Health Data Collection: Adolescent/Young Adult Oral Chemotherapy Adherence as an Example.\n
+*S. Li*, A. Psihogios, E. McKelvey, A. Ahmed, M. Rabbi, and S. Murphy. \n
+*Current Opinion in Systems Biology*, 2020.
+
+- [https://arxiv.org/abs/1804.05394 Scan B-statistic for Kernel Change-point Detection].\n
+*S. Li*, Y. Xie, H. Dai, and L. Song. \n
+*Sequential Analysis*, 38(4):503–544, 2019. 
+-- + Finalist of 2018 INFORMS QSR Best Student Paper Competition +
+
+- [https://arxiv.org/abs/1603.02199 Detecting Weak Changes in Dynamic Events over Networks].\n
+*S. Li*, Y. Xie, M. Farajtabar, A. Verma, and L. Song. \n
+*IEEE Transactions on Signal and Information Processing over Networks*, Vol. 3, No. 2, June 2017.
+-- + Finalist of 2018 INFORMS Social Media Analytics Best Student Paper Competition +
+
+- [https://www.jmlr.org/papers/v18/15-237.html COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
+M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, *S. Li*, H. Zha, and L. Song. \n
+*Journal of Machine Learning Research*, 2017.
+
+- Control for Time-Varying Delay Systems by Integrating Semi-Discretization and Hysteresis-Based Switching.\n
+C. Shao, *S. Li*, H. Li, and J. Sheng. \n
+*Asian Journal of Control*, 2018.
+
+- [https://dl.acm.org/doi/10.1145/3178876.3186002 COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
+M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, *S. Li*, H. Zha, and L. Song. \n
+*The Web Conference*, Journal Track, 2018.
+
+- Reinforcement Learning of Spatio-Temporal Point Processes.\n
+S. Zhu, *S. Li*, Z. Peng, and Y. Xie. \n
+*IEEE Transactions on Knowledge and Data Engineering*, 2022.
+
+=== Book Chapter
+
+- [https://link.springer.com/chapter/10.1007/978-3-319-43742-2_20 Learning Continuous-Time Hidden Markov Models for Event Data].\n
+Y. Liu, A. Moreno, *S. Li*, F. Li, L. Song, and J. Rehg. \n
+In *Mobile Health*, Springer, 2017.
+
+{{<a id="students"></a>}}
+== Students 
+
+=== Doctoral Students
+
+- Chao Yang (2022 Fall -)
+-- Shandong University; Master at University of Edinburgh
+--  First-author papers: ICML 2025, UAI 2025 
+
+- Wendi Ren (2023 Fall -)
+-- Sun Yat-sen University; Master at Georgia Institute of Technology
+--  Second-author papers: ICLR 2024, ICLR 2025, NeurIPS 2024 
+
+- Xinye Chen (2023 Fall -)
+-- Zhejiang University of Finance & Economics; Master at Johns Hopkins University
+
+- Yanwen Liu (2025 Fall -)
+-- Beihang University
+
+- Tianjian Zhang (2025 Fall -)
+-- Sun Yat-sen University
+
+=== Research Assistants
+
+- Chengzhi Cao (2022 Dec - 2024 Jan)
+-- Visiting student from the University of Science and Technology of China
+--  Initial placement: PhD in ECE at CMU 
+--  First-author paper: NeurIPS 2023, ICLR 2024 
+
+- Zitao Song (2022 Jun - 2023 May)
+-- Master student at CUHK(SZ)
+--  Initial placement: PhD in CS at Purdue University 
+--  First-author paper: ICLR 2024, ICML 2024 
+
+- Yang Yang (2022 Oct - 2024 Aug)
+--  Master student at CUHK(SZ)
+--  Initial placement: PhD at the Hong Kong University of Science and Technology (Guangzhou) 
+--  First-author paper: ICML 2024, NeurIPS 2024 
+
+- Yinghao Fu (2023 May - 2024 Aug)
+--  Master student at CUHK(SZ)
+--  Initial placement: PhD student in Data Science at the City University of Hong Kong 
+--  Co-first-author paper: ICLR 2024 
+
+- Shuting Cui (2023 July - 2023 Dec)
+--  Initial placement: PhD at Hong Kong University of Science and Technology (Guangzhou) 
+--  Second-author paper: ICML 2025 
+
+- Zhiren Gong (2025 March - 2025 Aug)
+--  Initial placement: PhD at Nanyang Technological University 
+  
+- Yuting Yan (2025 Jan -)
+-- Beihang University
+-- Master student at CUHK(SZ)
+--  First-author paper: NeurIPS 2025 GenAI4Health Workshop (Best Paper Award) 
+
+- Wenjie Shen (2025 Aug -)
+-- University of Science and Technology of China
+
+=== Undergraduate Students at CUHK(SZ)
+
+- Minghao Mou (2022 Jun - 2023 May)
+--  Initial placement: PhD in ECE at Purdue University 
+
+- Yiling Kuang (2022 Sep - 2023 May)
+--  Initial placement: PhD in Statistics at The Chinese University of Hong Kong 
+--  First-author paper: AISTATS 2024 
+
+- Zhaner Mou (2021 Dec - 2022 May)
+--  Initial placement: Master in Biostatistics at UC San Diego 
+--  Current placement: PhD in Data Science at UC San Diego 
+
+- Zilin Jing (2022 May - 2023 May)
+--  Initial placement: PhD in CS at Columbia University 
+--  First-author paper: ICML 2023 Interpretable ML in Healthcare Workshop 
+
+- Junyu Leng (2024 Jan - 2025 May)
+-- Initial placement: PhD in ISE at Texas A&M 
+
+- Shuhan Zhang (2024 March -)
+--  First-author paper: ICLR 2025, NeurIPS 2025 (spotlight) 
+
+- Jinlong Li (2025 Jun -)
+
+- Yongxi Feng (2025 Aug -)
+
+- Yitong Ding (2025 Aug -)
+
+{{<a id="teaching"></a>}}
+== Teaching
+
+=== Graduate Level 
+
+- DDA 6060/CSC 6022 Machine Learning
+-- Fall 2025, Spring 2025, Spring 2024, Spring 2023, Spring 2022
+
+- CSC 6137 Generative Models
+-- Fall 2023
+
+- DDA 6107 Advanced Machine Learning
+-- Fall 2022
+
+=== Undergraduate Level
+- DDA 2001 Introduction to Data Science
+-- Spring 2025, Spring 2024，Fall 2021
+
