@@ -67,6 +67,7 @@ Neural Information Processing Systems (*NeurIPS*), 2025. + (Spotlight) +
 - [https://dl.acm.org/doi/10.1145/3736252.3742630 RKHS Choice Model].\n
 Y. Yang, Z. Wang, R. Gao and *S. Li*. \n
 ACM Conference on Economics and Computation (*EC*), 2025.
+-- + Finalist of 2025 INFORMS Undergraduate Operations Research Award +
 
 - Flow-Based Delayed Hawkes Process.\n
 C. Yang, W. Ren and *S. Li*. \n
@@ -196,7 +197,7 @@ C. Yang, L. Wang, Z. Mou and *S. Li*. \n
 
 - Interpretable Deep Generative Spatio-Temporal Point Processes.\n
 S. Zhu, *S. Li*, Z. Peng, and Y. Xie. \n
-*NeurIPS* Workshop on AI for Earth Sciences, 2020.
+*NeurIPS* Workshop on AI for Earth Sciences, 2020. + (Spotlight) +
 
 - Temporal Logic Point Processes Processes.\n
 *S. Li*, L. Wang, R. Zhang, Y. Xie, N. Du, and L. Song. \n
@@ -209,6 +210,14 @@ Workshop on Activity and Events in Networks: Models, Methods Applications, in co
 
 
 === Journal
+
+-  Neural-Network Mixed Logit Choice Model: Statistical and Optimality Guarantees.\n
+Z. Wang, R. Gao and *S. Li*.\n
+major revision at *Management Science*
+-- + Second Place, POMS-HK Best Student Paper Award. +
+
+
+
 
 - Micro-Randomized Trials for Promoting Engagement in Mobile Health Data Collection: Adolescent/Young Adult Oral Chemotherapy Adherence as an Example.\n
 *S. Li*, A. Psihogios, E. McKelvey, A. Ahmed, M. Rabbi, and S. Murphy. \n
