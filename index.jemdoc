@@ -134,55 +134,55 @@ International Conference on Artificial Intelligence and Statistics (*AISTATS*), 
 C. Cao, Y. Fu, S. Xu, R. Zhang and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2024.
 
-- [https://arxiv.org/abs/2310.08538 Amortized Network Intervention to Steer Excitatory Point Processes].\n
+- [https://openreview.net/pdf?id=8g26Yv1EOu Amortized Network Intervention to Steer Excitatory Point Processes].\n
 Z. Song, W. Ren and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2024.
 
-- [https://arxiv.org/abs/2305.17387 Discovering Intrinsic Spatial-Temporal Logic Rules to Explain Human Actions].\n
+- [https://openreview.net/pdf?id=avuRopYsCg Discovering Intrinsic Spatial-Temporal Logic Rules to Explain Human Actions].\n
 C. Cao, C. Yang, R. Zhang and *S. Li*. \n
 Neural Information Processing Systems (*NeurIPS*), 2023.
 
-- [https://openreview.net/forum?id=ufE3pApEQMA Explaining Point Processes by Learning Interpretable Temporal Logic Rules].\n
+- [https://openreview.net/pdf?id=P07dq7iSAGr Explaining Point Processes by Learning Interpretable Temporal Logic Rules].\n
 *S. Li*, M. Feng, L. Wang, A. Essofi, Y. Cao, J. Yan and L. Song. \n
 International Conference on Learning Representations (*ICLR*), 2022.
 
-- [https://proceedings.mlr.press/v119/li20e.html Temporal Logic Point Processes].\n
+- [https://proceedings.mlr.press/v119/li20p/li20p.pdf Temporal Logic Point Processes].\n
 *S. Li*, L. Wang, R. Zhang, X. Chang, X. Liu, Y. Xie, Y. Qi, and L. Song. \n
 International Conference on Machine Learning (*ICML*), 2020.
 
-- [https://dl.acm.org/doi/10.1145/3340531.3411959 Continuous-Time Dynamic Graph Learning via Neural Interaction Processes].\n
+- [https://dl.acm.org/doi/10.1145/3340531.3411946 Continuous-Time Dynamic Graph Learning via Neural Interaction Processes].\n
 X. Chang, X. Liu, J. Wen, *S. Li*, Y. Fang, L. Song, and Y. Qi. \n
 The Conference on Information and Knowledge Management (*CIKM*), 2020.
 
-- [https://proceedings.mlr.press/v97/chen19f.html Generative Adversarial User Model for Reinforcement Learning Based Recommendation System].\n
+- [https://proceedings.mlr.press/v97/chen19f/chen19f.pdf Generative Adversarial User Model for Reinforcement Learning Based Recommendation System].\n
 X. Chen, *S. Li*, H. Li, S. Jiang, Y. Qi, and L. Song. \n
 International Conference on Machine Learning (*ICML*), 2019.
 
-- [https://papers.nips.cc/paper/2018/hash/aa5a72305f3a8a08eabda4b56afc45da-Abstract.html Learning Temporal Point Processes via Reinforcement Learning].\n
+- [https://proceedings.neurips.cc/paper_files/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf Learning Temporal Point Processes via Reinforcement Learning].\n
 *S. Li*, S. Xiao, S. Zhu, N. Du, Y. Xie, and L. Song. \n
 Neural Information Processing Systems (*NeurIPS*), 2018. + (Spotlight) +
 
-- [https://openreview.net/forum?id=HJ0cZ3A9Km Recurrent Hidden Semi-Markov Model].\n
+- [https://openreview.net/pdf?id=HJGODLqgx Recurrent Hidden Semi-Markov Model].\n
 H. Dai, B. Dai, Y. Zhang, *S. Li*, and L. Song. \n
 International Conference on Learning Representations (*ICLR*), 2017.
 
-- [https://proceedings.mlr.press/v70/farajtabar17a.html Fake News Mitigation via Point Processes Based Intervention].\n
+- [https://proceedings.mlr.press/v70/farajtabar17a/farajtabar17a.pdf Fake News Mitigation via Point Processes Based Intervention].\n
 M. Farajtabar, J. Yang, X. Ye, R. Trivedi, E. Khalil, *S. Li*, H. Xu, L. Song, and H. Zha. \n
 International Conference on Machine Learning (*ICML*), 2017.
 
-- [https://ieeexplore.ieee.org/document/7852315 Online Seismic Event Picking Via Sequential Change-Point Detection].\n
+- [https://ieeexplore.ieee.org/document/7852311 Online Seismic Event Picking Via Sequential Change-Point Detection].\n
 *S. Li*, Y. Cao, C. Leamon, Y. Xie, L. Shi, and W. Song. \n
 Allerton Conference on Control, Communications and Computing (*Allerton*), 2016.
 
-- [https://papers.nips.cc/paper/2015/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html M-Statistic for Kernel Change-Point Detection].\n
+- [https://proceedings.neurips.cc/paper_files/paper/2015/file/eb1e78328c46506b46a4ac4a1e378b91-Paper.pdf M-Statistic for Kernel Change-Point Detection].\n
 *S. Li*, Y. Xie, H. Dai, and L. Song. \n
 Neural Information Processing Systems (*NIPS*), 2015.
 
-- [https://papers.nips.cc/paper/2015/hash/0c68c68cc1e4c52e3f0b3f8a1d0e7e08-Abstract.html Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression].\n
+- [https://proceedings.neurips.cc/paper_files/paper/2015/file/a591024321c5e2bdbd23ed35f0574dde-Paper.pdf Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression].\n
 Y. Liu, *S. Li*, F. Li, L. Song, and J. Rehg. \n
 Neural Information Processing Systems (*NIPS*), 2015.
 
-- [https://papers.nips.cc/paper/2015/hash/752d109dac0c18f2b1bdfd68c52ab4ff-Abstract.html COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
+- [https://proceedings.neurips.cc/paper_files/paper/2015/file/52292e0c763fd027c6eba6b8f494d2eb-Paper.pdf COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
 M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, *S. Li*, H. Zha, and L. Song. \n
 Neural Information Processing Systems (*NIPS*), 2015. + (Oral) +
 
