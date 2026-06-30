@@ -33,18 +33,12 @@ If you are interested in working with me and have good programming skills and ma
 you can contact me via email with your CV.
 ~~~
 
-=== Research Interests
+== Research Interests
 
-My research delves into the development of knowledge-enhanced sequential models and sequential decision tools, which prioritize interpretability and trustworthiness in machine learning.
-More specifically, my research focuses on:
+My research develops *rule-guided sequential intelligence*: reliable ML models that learn from sequences of events and decisions to predict, explain, and deliberate.
 
-- Knowledge-Enhanced Sequential Models: By integrating domain-specific knowledge into
-  machine learning algorithms, we aim to facilitate transparent decision-making processes and
-  to create robust and reliable frameworks applicable in high-stakes systems.
-- Human Cognitive Process Modeling: By incorporating Theory of Mind and spatial-temporal
-  logical reasoning into AI systems, we aim to enable effective collaboration between humans and AI.
-- Applications in Healthcare: We aim to apply machine learning tools to improve healthcare
-  policies, clinical workflows, and patient outcomes through informed decision-making.
+I combine temporal point processes, neuro-symbolic reasoning, cognitive modeling, and sequential decision-making to build interpretable AI for high-stakes domains such as healthcare, human-AI collaboration, choice modeling, and data-driven operations.
+
 
 {{<a id="publications"></a>}}
 == Publications
@@ -355,8 +349,9 @@ In *Mobile Health*, Springer, 2017.
 --  Initial placement: PhD at The Chinese University of Hong Kong, Shenzhen
 --  First-author paper: NeurIPS 2025 GenAI4Health Workshop (Best Paper Award) 
 
-- Wenjie Shen (2025 Aug -)
+- Wenjie Shen (2025 Aug - 2026 May)
 -- University of Science and Technology of China
+--  Initial placement: Master in AI at CUHK(SZ)
 --  First-author paper: AISTATS 2026
 
 - Haozhou Gao (2025 Sep -)
@@ -382,10 +377,12 @@ In *Mobile Health*, Springer, 2017.
 
 - Junyu Leng (2024 Jan - 2025 May)
 -- Initial placement: PhD in ISE at Texas A&M 
+--  Co-first-author paper: ICLR 2026
 
 - Shuhan Zhang (2024 March - 2026 May)
---  First-author paper: ICLR 2025, NeurIPS 2025 (Spotlight)
 -- Initial placement: PhD in ML at GaTech
+--  First-author paper: ICLR 2025, NeurIPS 2025 (Spotlight)
+
 
 
 {{<a id="teaching"></a>}}
