@@ -28,9 +28,13 @@ you can contact me via email with your CV.
 
 == Research Interests
 
-My research develops reliable machine learning models that learn from sequences of events and decisions to predict, explain, and deliberate.
+My research develops human-centric AI that learns from evolving sequences of events and decisions
+to discover temporal mechanisms, infer preferences, and support reliable decision-making.
 
-I combine temporal point processes, neuro-symbolic reasoning, cognitive modeling, and sequential decision-making to build interpretable AI for high-stakes domains such as healthcare, human--AI collaboration, choice modeling, and data-driven operations.
+I combine statistical learning, temporal point processes,
+neuro-symbolic reasoning, and sequential decision-making to develop
+interpretable models for understanding human behavior and building adaptive AI systems
+in domains such as healthcare, human-AI collaboration, choice modeling, and data-driven operations.
 
 For a fuller overview of my research agenda, please see my
 [Research.html *Research Statement*].
