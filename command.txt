@@ -1,0 +1,2 @@
+python jemdoc3.py -c statCounter.conf index
+python jemdoc3.py -c statCounter.conf Research
