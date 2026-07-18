@@ -1,0 +1,153 @@
+# jemdoc: menu{MENU}{Research.html}, title{Research Statement - Shuang Li}
+= Research Statement
+
+My long-term research goal is to develop *human-centric AI* that continuously understands an /evolving world/ and supports human decision-making with /timely, interpretable, and actionable intelligence/.
+
+My earlier Ph.D. and postdoctoral work established the /methodological foundation/: *continuous-time sequential models* for irregular event streams, including temporal point processes, latent-state models, and sequential decision methods.
+
+My recent work at CUHK-Shenzhen builds on this foundation, shifting from modeling *when and what events occur* to understanding *what event sequences reveal about human behavior*. I view sequences as behavioral traces of *actions, preferences, decisions, and interactions*, and develop interpretable models that predict behavior, uncover mechanisms, and support decisions aligned with human needs. This work advances along three connected directions.
+
+=== 1. Interpretable temporal mechanisms from behavioral traces
+
+Most sequence models focus on predicting future events without explaining the mechanisms that generate them. Building on temporal point processes, I develop models that combine statistical learning with /symbolic rules, structured domain knowledge, and forward-chaining inference/. These models capture irregular event dynamics, infer hidden states, and recover temporal logic that can be inspected, verified, and revised.
+
+I further study cognitively inspired models of behavior, including how people form internal world models, reuse learned habits, and switch between fast intuitive responses and slower deliberative reasoning. This direction moves beyond next-event prediction toward *mechanism discovery* in evolving systems such as clinical trajectories, treatment policies, and human action patterns.
+
+=== 2. Preference mechanisms behind human decisions
+
+While temporal models explain how behavior evolves, this direction studies /how context shapes what people choose and value/. Choices depend on the available alternatives, prior interactions, framing, and individual heterogeneity.
+
+I develop interpretable neural and symbolic choice models that capture context effects, interactions among options, behavioral heterogeneity, and evolving preferences. I also study the statistical and optimization questions that arise when these models inform assortments, recommendations, and related decision-support interventions. This direction connects sequential behavior modeling with choice and preference learning, enabling AI systems to anticipate not only *what people will do*, but also *what outcomes they value*.
+
+=== 3. Collaborative AI for human-centered decision support
+
+Rather than replacing human expertise, I study how AI can serve as a complementary decision partner. Building on temporal mechanisms and preference models, this line investigates how AI should recommend, ask questions, trigger deeper deliberation, coordinate with humans, or identify the appropriate expert when decisions unfold over time.
+
+I develop algorithms that align predictions, explanations, and interventions with human intentions, preferences, and reasoning while accounting for uncertainty, bias, and cognitive limitations. In clinical decision support and other high-stakes settings, this work aims to create collaborative AI systems that know when to recommend, when to deliberate, and whom to consult.
+
+Together, these directions form a coherent research agenda that moves from *event prediction* to *human understanding* and, ultimately, to *human-aligned AI support* that is interpretable, adaptive, and useful for decisions that matter.
+
+== Representative Works
+
+The papers below are representative rather than exhaustive. See my [CV_Shuang.pdf CV] or [https://scholar.google.com/citations?user=HxCZsCUAAAAJ&hl=en Google Scholar] for the complete publication list.
+
+=== Methodological Foundations
+
+/Continuous-time models for irregular event streams, latent-state dynamics, scalable learning, and diffusion-based generation./
+
+- [https://proceedings.neurips.cc/paper_files/paper/2015/file/52292e0c763fd027c6eba6b8f494d2eb-Paper.pdf COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
+M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, *S. Li*, H. Zha, and L. Song. \n
+Neural Information Processing Systems (*NIPS*), 2015. + (Oral) +
+
+- [https://proceedings.neurips.cc/paper_files/paper/2015/file/a591024321c5e2bdbd23ed35f0574dde-Paper.pdf Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression].\n
+Y. Liu, *S. Li*, F. Li, L. Song, and J. Rehg. \n
+Neural Information Processing Systems (*NIPS*), 2015.
+
+- [https://openreview.net/pdf?id=HJGODLqgx Recurrent Hidden Semi-Markov Model].\n
+H. Dai, B. Dai, Y. Zhang, *S. Li*, and L. Song. \n
+International Conference on Learning Representations (*ICLR*), 2017.
+
+- [https://proceedings.neurips.cc/paper_files/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf Learning Temporal Point Processes via Reinforcement Learning].\n
+*S. Li*, S. Xiao, S. Zhu, N. Du, Y. Xie, and L. Song. \n
+Neural Information Processing Systems (*NeurIPS*), 2018. + (Spotlight) +
+
+- [https://proceedings.mlr.press/v119/li20p/li20p.pdf Temporal Logic Point Processes].\n
+*S. Li*, L. Wang, R. Zhang, X. Chang, X. Liu, Y. Xie, Y. Qi, and L. Song. \n
+International Conference on Machine Learning (*ICML*), 2020.
+
+- [https://openreview.net/pdf?id=oWyvNaX6op Branching Diffusion for Point Processes in Time and Space].\n
+C. Yang, W. Shen and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2026.
+
+=== Temporal Reasoning and Cognitive Models
+
+/Temporal and neuro-symbolic mechanisms./
+
+- [https://openreview.net/pdf?id=P07dq7iSAGr Explaining Point Processes by Learning Interpretable Temporal Logic Rules].\n
+*S. Li*, M. Feng, L. Wang, A. Essofi, Y. Cao, J. Yan and L. Song. \n
+International Conference on Learning Representations (*ICLR*), 2022.
+
+- [https://openreview.net/pdf?id=avuRopYsCg Discovering Intrinsic Spatial-Temporal Logic Rules to Explain Human Actions].\n
+C. Cao, C. Yang, R. Zhang and *S. Li*. \n
+Neural Information Processing Systems (*NeurIPS*), 2023.
+
+- [https://openreview.net/pdf?id=pwfcwEqdUz Latent Logic Tree Extraction for Event Sequence Explanation from LLMs].\n
+Z. Song, C. Yang, C. Wang, B. An and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2024.
+
+- [https://openreview.net/pdf?id=HDrXBr26UI Neuro-Symbolic Temporal Point Processes].\n
+Y. Yang, C. Yang, B. Li, Y. Fu and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2024.
+
+- [https://openreview.net/pdf?id=8tjGapjQ5J Forward-Chaining Temporal Point Process].\n
+C. Yang, W. Ren and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2026.
+
+/Cognitive and clinical extensions./
+
+- [https://openreview.net/pdf?id=QRms4lx0Fp Evolving Minds: Logic-Informed Inference from Temporal Action Patterns].\n
+C. Yang, S. Cui, Y. Yang and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2025.
+
+- [https://openreview.net/pdf?id=FZXwkBH6s7 Learning Human Habits with Rule-Guided Active Inference].\n
+Z. Gong, C. Yang, W. Ren and *S. Li*. \n
+International Conference on Learning Representations (*ICLR*), 2026.
+
+- [https://openreview.net/pdf?id=FQe2n8OAKT Deliberate-When-Needed: Flow-Reasoner for Neuro-Symbolic Continuous Thought].\n
+W. Shen, B. Li, C. Yang and *S. Li*. \n
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2026.
+
+=== Choice and Preference Modeling
+
+/Interpretable choice and preference models./
+
+- [https://openreview.net/pdf?id=vJgJSrYPe1 Logic-Logit: A Logic-Based Approach to Choice Modeling].\n
+S. Zhang, W. Ren and *S. Li*. \n
+International Conference on Learning Representations (*ICLR*), 2025.
+
+- [https://dl.acm.org/doi/10.1145/3736252.3742630 RKHS Choice Model].\n
+Y. Yang, Z. Wang, R. Gao and *S. Li*. \n
+ACM Conference on Economics and Computation (*EC*), 2025.
+-- + Finalist of 2025 INFORMS Undergraduate Operations Research Award +
+
+- [https://openreview.net/pdf?id=bXTBtUjb0c DeepHalo: A Neural Choice Model with Controllable Context Effects].\n
+S. Zhang, Z. Wang, R. Gao and *S. Li*. \n
+Neural Information Processing Systems (*NeurIPS*), 2025. + (Spotlight) +
+
+- [https://openreview.net/pdf?id=QwajHjHvbU From Counts to Preferences: Preference-Driven Models for Spatio-Temporal Event Data].\n
+C. Yang, Y. Kuang and *S. Li*. \n
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2026.
+
+/Statistical guarantees and decision optimization./
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118033 Neural-Network Mixed Logit Choice Model: Statistical and Optimality Guarantees].\n
+Z. Wang, R. Gao and *S. Li*.\n
+Major revision at *Management Science*.
+-- + Second Place, POMS-HK Best Student Paper Award. +
+
+- [https://optimization-online.org/2026/06/neural-assortment-optimization/ Neural Assortment Optimization].\n
+Z. Yang, J. Liang, Z. Wang, Y. An, R. Gao and *S. Li*. \n
+ACM Conference on Economics and Computation (*EC*), 2026.
+
+=== Collaborative AI and High-Stakes Decision Support
+
+- [https://openreview.net/pdf?id=TWC4gLoAxY Enhancing Human-AI Collaboration Through Logic-Guided Reasoning].\n
+C. Cao, Y. Fu, S. Xu, R. Zhang and *S. Li*. \n
+International Conference on Learning Representations (*ICLR*), 2024.
+
+- [https://openreview.net/pdf?id=rEzGzILnVC Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis].\n
+Y. Yan, Y. Fu, W. Ren, H. Gao and *S. Li*. \n
+International Conference on Machine Learning (*ICML*), 2026.
+-- + Best Paper Award at NeurIPS GenAI4Health Workshop, 2025 +
+
+- [https://openreview.net/attachment?id=PxOy27lE3H&name=pdf Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis].\n
+Y. Yan, Y. Fu, W. Ren and *S. Li*. \n
+*NeurIPS* Workshop on GenAI4Health, 2025. + (Oral, Best Paper Award) +
+
+- [https://openreview.net/pdf?id=CBVoBM7Hly When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation].\n
+Y. Yan, Y. Fu, H. Gao, T. Zhang, A. Liu and *S. Li*. \n
+*ICML* Workshop on Failure Modes of Agentic AI, 2026. + (Oral) +
+
+- [https://openreview.net/pdf?id=PcLnHRmZ86 Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis].\n
+Y. Fu, C. Yang, X. Chen, Y. Yan and *S. Li*. \n
+*ICML* Workshop on Collaborative and Federated Agentic Workflows, 2025. + (Oral) +
