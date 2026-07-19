@@ -45,16 +45,16 @@ For a fuller overview of my research agenda, please see my
 === Conference
 
 
-- [https://openreview.net/pdf?id=rEzGzILnVC Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis].\n
+- [https://icml.cc/virtual/2026/poster/61332 Beyond Accuracy: Latent Perturbations for Cognitive-Aware Diagnosis].\n
 Y. Yan, Y. Fu, W. Ren, H. Gao and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2026.
 -- + Best Paper Award at NeurIPS GenAI4Health Workshop, 2025 +
 
-- [https://openreview.net/pdf?id=oWyvNaX6op Branching Diffusion for Point Processes in Time and Space].\n
+- [https://icml.cc/virtual/2026/poster/61600 Branching Diffusion for Point Processes in Time and Space].\n
 C. Yang, W. Shen and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2026.
 
-- [https://openreview.net/pdf?id=8tjGapjQ5J Forward-Chaining Temporal Point Process].\n
+- [https://icml.cc/virtual/2026/poster/65922 Forward-Chaining Temporal Point Process].\n
 C. Yang, W. Ren and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2026.
 
@@ -62,27 +62,27 @@ International Conference on Machine Learning (*ICML*), 2026.
 Z. Yang, J. Liang, Z. Wang, Y. An, R. Gao and *S. Li*. \n
 ACM Conference on Economics and Computation (*EC*), 2026.
 
-- [https://openreview.net/pdf?id=FZXwkBH6s7 Learning Human Habits with Rule-Guided Active Inference]. \n
+- [https://iclr.cc/virtual/2026/poster/10010589 Learning Human Habits with Rule-Guided Active Inference]. \n
 Z. Gong, C. Yang, W. Ren and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2026.
 
-- [https://openreview.net/pdf?id=26Msp6pV5i Inferring the Invisible: Neuro-Symbolic Rule Discovery for Missing Value Imputation].\n
+- [https://iclr.cc/virtual/2026/poster/10011776 Inferring the Invisible: Neuro-Symbolic Rule Discovery for Missing Value Imputation].\n
 W. Ren, K. Wan, J. Leng and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2026.
 
-- [https://openreview.net/pdf?id=5gUMhTUDi0 Sampling Complexity of TD and PPO in RKHS].\n
+- [https://iclr.cc/virtual/2026/poster/10011431 Sampling Complexity of TD and PPO in RKHS].\n
 L. Zou, W. Ren, W. Zhang, L. Ding and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2026.
 
-- [https://openreview.net/pdf?id=QwajHjHvbU From Counts to Preferences: Preference-Driven Models for Spatio-Temporal Event Data].\n
+- [https://virtual.aistats.org/virtual/2026/poster/13626 From Counts to Preferences: Preference-Driven Models for Spatio-Temporal Event Data].\n
 C. Yang, Y. Kuang and *S. Li*. \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2026.
 
-- [https://openreview.net/pdf?id=FQe2n8OAKT Deliberate-When-Needed: Flow-Reasoner for Neuro-Symbolic Continuous Thought]. \n
+- [https://virtual.aistats.org/virtual/2026/poster/13733 Deliberate-When-Needed: Flow-Reasoner for Neuro-Symbolic Continuous Thought]. \n
 W. Shen, B. Li, C. Yang and *S. Li*. \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2026.
 
-- [https://openreview.net/pdf?id=bXTBtUjb0c DeepHalo: A Neural Choice Model with Controllable Context Effects].\n
+- [https://neurips.cc/virtual/2025/loc/san-diego/poster/115265 DeepHalo: A Neural Choice Model with Controllable Context Effects].\n
 S. Zhang, Z. Wang, R. Gao and *S. Li*. \n 
 Neural Information Processing Systems (*NeurIPS*), 2025. + (Spotlight) +
 
@@ -91,39 +91,39 @@ Y. Yang, Z. Wang, R. Gao and *S. Li*. \n
 ACM Conference on Economics and Computation (*EC*), 2025.
 -- + Finalist of 2025 INFORMS Undergraduate Operations Research Award +
 
-- [https://openreview.net/pdf?id=AevUeWmEz9 Flow-Based Delayed Hawkes Process].\n
+- [https://proceedings.mlr.press/v286/yang25d.html Flow-Based Delayed Hawkes Process].\n
 C. Yang, W. Ren and *S. Li*. \n
 Conference on Uncertainty in Artificial Intelligence (*UAI*), 2025.
 
-- [https://openreview.net/pdf?id=QRms4lx0Fp Evolving Minds: Logic-Informed Inference from Temporal Action Patterns].\n
+- [https://proceedings.mlr.press/v267/yang25i.html Evolving Minds: Logic-Informed Inference from Temporal Action Patterns].\n
 C. Yang, S. Cui, Y. Yang and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2025.
 
-- [https://openreview.net/pdf?id=v4DWXM93VV Convergence of Mean-Field Langevin Stochastic Descent-Ascent for Distributional Minimax Optimization].\n
+- [https://proceedings.mlr.press/v267/liu25al.html Convergence of Mean-Field Langevin Stochastic Descent-Ascent for Distributional Minimax Optimization].\n
 Z. Liu, F. Liu, R. Gao and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2025. + (Spotlight) +
 
-- [https://openreview.net/pdf?id=vJgJSrYPe1 Logic-Logit: A Logic-Based Approach to Choice Modeling].\n
+- [https://openreview.net/forum?id=vJgJSrYPe1 Logic-Logit: A Logic-Based Approach to Choice Modeling].\n
 S. Zhang, W. Ren and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2025.
 
-- [https://openreview.net/pdf?id=gJbZyKGfd6 HyperLogic: Enhancing Diversity and Accuracy in Rule Learning with HyperNets].\n
+- [https://neurips.cc/virtual/2024/poster/94153 HyperLogic: Enhancing Diversity and Accuracy in Rule Learning with HyperNets].\n
 Y. Yang, W. Ren and *S. Li*. \n
 Neural Information Processing Systems (*NeurIPS*), 2024.
 
-- [https://openreview.net/pdf?id=HDrXBr26UI Neuro-Symbolic Temporal Point Processes].\n
+- [https://proceedings.mlr.press/v235/yang24ag.html Neuro-Symbolic Temporal Point Processes].\n
 Y. Yang, C. Yang, B. Li, Y. Fu and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2024.
 
-- [https://openreview.net/pdf?id=pwfcwEqdUz Latent Logic Tree Extraction for Event Sequence Explanation from LLMs].\n
+- [https://proceedings.mlr.press/v235/song24j.html Latent Logic Tree Extraction for Event Sequence Explanation from LLMs].\n
 Z. Song, C. Yang, C. Wang, B. An and *S. Li*. \n
 International Conference on Machine Learning (*ICML*), 2024.
 
-- [https://proceedings.mlr.press/v238/kuang24a/kuang24a.pdf Unveiling Latent Causal Rules: A Temporal Point Process Approach for Abnormal Event Explanation].\n
+- [https://proceedings.mlr.press/v238/kuang24a.html Unveiling Latent Causal Rules: A Temporal Point Process Approach for Abnormal Event Explanation].\n
 Y. Kuang, C. Yang, Y. Yang and *S. Li*. \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024.
 
-- [https://openreview.net/pdf?id=TWC4gLoAxY Enhancing Human-AI Collaboration Through Logic-Guided Reasoning].\n
+- [https://openreview.net/forum?id=TWC4gLoAxY Enhancing Human-AI Collaboration Through Logic-Guided Reasoning].\n
 C. Cao, Y. Fu, S. Xu, R. Zhang and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2024.
 
@@ -131,15 +131,15 @@ International Conference on Learning Representations (*ICLR*), 2024.
 Z. Song, W. Ren and *S. Li*. \n
 International Conference on Learning Representations (*ICLR*), 2024.
 
-- [https://openreview.net/pdf?id=avuRopYsCg Discovering Intrinsic Spatial-Temporal Logic Rules to Explain Human Actions].\n
+- [https://papers.nips.cc/paper_files/paper/2023/hash/d69fdbe4d13080bb7fa33249ca136976-Abstract-Conference.html Discovering Intrinsic Spatial-Temporal Logic Rules to Explain Human Actions].\n
 C. Cao, C. Yang, R. Zhang and *S. Li*. \n
 Neural Information Processing Systems (*NeurIPS*), 2023.
 
-- [https://openreview.net/pdf?id=P07dq7iSAGr Explaining Point Processes by Learning Interpretable Temporal Logic Rules].\n
+- [https://www.microsoft.com/en-us/research/publication/explaining-point-processes-by-learning-interpretable-temporal-logic-rules/ Explaining Point Processes by Learning Interpretable Temporal Logic Rules].\n
 *S. Li*, M. Feng, L. Wang, A. Essofi, Y. Cao, J. Yan and L. Song. \n
 International Conference on Learning Representations (*ICLR*), 2022.
 
-- [https://proceedings.mlr.press/v119/li20p/li20p.pdf Temporal Logic Point Processes].\n
+- [https://proceedings.mlr.press/v119/li20p.html Temporal Logic Point Processes].\n
 *S. Li*, L. Wang, R. Zhang, X. Chang, X. Liu, Y. Xie, Y. Qi, and L. Song. \n
 International Conference on Machine Learning (*ICML*), 2020.
 
@@ -147,19 +147,19 @@ International Conference on Machine Learning (*ICML*), 2020.
 X. Chang, X. Liu, J. Wen, *S. Li*, Y. Fang, L. Song, and Y. Qi. \n
 The Conference on Information and Knowledge Management (*CIKM*), 2020.
 
-- [https://proceedings.mlr.press/v97/chen19f/chen19f.pdf Generative Adversarial User Model for Reinforcement Learning Based Recommendation System].\n
+- [https://proceedings.mlr.press/v97/chen19f.html Generative Adversarial User Model for Reinforcement Learning Based Recommendation System].\n
 X. Chen, *S. Li*, H. Li, S. Jiang, Y. Qi, and L. Song. \n
 International Conference on Machine Learning (*ICML*), 2019.
 
-- [https://proceedings.neurips.cc/paper_files/paper/2018/file/5d50d22735a7469266aab23fd8aeb536-Paper.pdf Learning Temporal Point Processes via Reinforcement Learning].\n
+- [https://papers.nips.cc/paper_files/paper/2018/hash/5d50d22735a7469266aab23fd8aeb536-Abstract.html Learning Temporal Point Processes via Reinforcement Learning].\n
 *S. Li*, S. Xiao, S. Zhu, N. Du, Y. Xie, and L. Song. \n
 Neural Information Processing Systems (*NeurIPS*), 2018. + (Spotlight) +
 
-- [https://openreview.net/pdf?id=HJGODLqgx Recurrent Hidden Semi-Markov Model].\n
+- [https://hanjun-dai.github.io/pdf/DaiDaiZhaetal17.pdf Recurrent Hidden Semi-Markov Model].\n
 H. Dai, B. Dai, Y. Zhang, *S. Li*, and L. Song. \n
 International Conference on Learning Representations (*ICLR*), 2017.
 
-- [https://proceedings.mlr.press/v70/farajtabar17a/farajtabar17a.pdf Fake News Mitigation via Point Processes Based Intervention].\n
+- [https://proceedings.mlr.press/v70/farajtabar17a.html Fake News Mitigation via Point Processes Based Intervention].\n
 M. Farajtabar, J. Yang, X. Ye, R. Trivedi, E. Khalil, *S. Li*, H. Xu, L. Song, and H. Zha. \n
 International Conference on Machine Learning (*ICML*), 2017.
 
@@ -167,43 +167,43 @@ International Conference on Machine Learning (*ICML*), 2017.
 *S. Li*, Y. Cao, C. Leamon, Y. Xie, L. Shi, and W. Song. \n
 Allerton Conference on Control, Communications and Computing (*Allerton*), 2016.
 
-- [https://proceedings.neurips.cc/paper_files/paper/2015/file/eb1e78328c46506b46a4ac4a1e378b91-Paper.pdf M-Statistic for Kernel Change-Point Detection].\n
+- [https://papers.nips.cc/paper_files/paper/2015/hash/eb1e78328c46506b46a4ac4a1e378b91-Abstract.html M-Statistic for Kernel Change-Point Detection].\n
 *S. Li*, Y. Xie, H. Dai, and L. Song. \n
 Neural Information Processing Systems (*NIPS*), 2015.
 
-- [https://proceedings.neurips.cc/paper_files/paper/2015/file/a591024321c5e2bdbd23ed35f0574dde-Paper.pdf Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression].\n
+- [https://papers.nips.cc/paper_files/paper/2015/hash/a591024321c5e2bdbd23ed35f0574dde-Abstract.html Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression].\n
 Y. Liu, *S. Li*, F. Li, L. Song, and J. Rehg. \n
 Neural Information Processing Systems (*NIPS*), 2015.
 
-- [https://proceedings.neurips.cc/paper_files/paper/2015/file/52292e0c763fd027c6eba6b8f494d2eb-Paper.pdf COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
+- [https://papers.nips.cc/paper_files/paper/2015/hash/52292e0c763fd027c6eba6b8f494d2eb-Abstract.html COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution].\n
 M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, *S. Li*, H. Zha, and L. Song. \n
 Neural Information Processing Systems (*NIPS*), 2015. + (Oral) +
 
 === Workshop
 
-- [https://openreview.net/pdf?id=CBVoBM7Hly When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation]. \n
+- [https://icml.cc/virtual/2026/77981 When Agreement Becomes Unsafe: Loss-Aware Energy Control for Diagnostic Deliberation]. \n
 Y. Yan, Y. Fu, H. Gao, T. Zhang, A. Liu and *S. Li*. \n
 *ICML* Workshop on Failure Modes of Agentic AI, 2026. + (Oral) +
 
-- [https://openreview.net/pdf?id=mg9dZK2RX0 Dual-Resolution Recursive Energy: Certified Contract–Expand Inference for Sequential Decision Making].\n
+- [https://icml.cc/virtual/2026/69291 Dual-Resolution Recursive Energy: Certified Contract–Expand Inference for Sequential Decision Making].\n
 H. Gao, J. Zeng, W. Ren, Y. Liu and *S. Li*. \n
 *ICML* Workshop on Compositional Learning: Safety, Interpretability, and Agents, 2026.
 
-- [https://openreview.net/pdf?id=QHBbqj8vNx Learning What’s Missing: Failure-Driven Skill Discovery via Predicate Bridges].\n
+- [https://icml.cc/virtual/2026/69341 Learning What’s Missing: Failure-Driven Skill Discovery via Predicate Bridges].\n
 Y. Liu, W. Ren, H. Gao and *S. Li*. \n
 *ICML* Workshop on Compositional Learning: Safety, Interpretability, and Agents, 2026.
 
 
-- [https://openreview.net/pdf?id=XHX5NCpHzr Structured Behavioral Heterogeneity as Latent Regime Constraints].\n
+- [https://icml.cc/virtual/2026/83720 Structured Behavioral Heterogeneity as Latent Regime Constraints].\n
 Y. Yan, H. Gao, X. Chen, Y. Fu and *S. Li*. \n
 *ICML* Workshop on on Decision-Making from Offline Datasets to Online Adaptation, 2026.
 
 
-- [https://openreview.net/attachment?id=PxOy27lE3H&name=pdf Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis].\n
+- [https://neurips.cc/virtual/2025/loc/san-diego/124910 Unanchoring the Mind: DAE-Guided Counterfactual Reasoning for Rare Disease Diagnosis].\n
 Y. Yan, Y. Fu, W. Ren and *S. Li*. \n
 *NeurIPS* Workshop on GenAI4Health, 2025. + (Oral, Best Paper Award) +
 
-- [https://openreview.net/pdf?id=FLD5JWpR67 Neural Decision Rule for Constrained Contextual Stochastic Optimization].\n
+- [https://neurips.cc/virtual/2025/loc/san-diego/136368 Neural Decision Rule for Constrained Contextual Stochastic Optimization].\n
 Z. Liu, Z. Xu, F. Liu, R. Gao and *S. Li*. \n
 *NeurIPS* Workshop on MLxOR, 2025. + (Spotlight) +
 
@@ -211,7 +211,7 @@ Z. Liu, Z. Xu, F. Liu, R. Gao and *S. Li*. \n
 C. Yang, Y. Kuang and *S. Li*. \n
 *NeurIPS* Workshop on UrbanAI: Harnessing Artificial Intelligence for Smart Cities, 2025.
 
-- [https://openreview.net/pdf?id=PcLnHRmZ86 Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis].\n
+- [https://icml.cc/virtual/2025/47986 Who Should Be Consulted? Targeted Expert Selection for Rare Disease Diagnosis].\n
 Y. Fu, C. Yang, X. Chen, Y. Yan and *S. Li*. \n
 *ICML* Workshop on Collaborative and Federated Agentic Workflows, 2025. + (Oral) +
 
@@ -223,7 +223,7 @@ W. Ren, K. Wan, J. Leng and *S. Li*. \n
 S. Zhang, Z. Wang, R. Gao and *S. Li*. \n
 *ICML* Workshop on Models of Human Feedback for AI Alignment, 2025. + (Oral) +
 
-- [https://openreview.net/pdf?id=mXDB3wuXhN Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies].\n
+- [https://icml.cc/virtual/2025/49858 Discovering Logic-Informed Intrinsic Rewards to Explain Human Policies].\n
 C. Cao, Y. Fu, C. Yang and *S. Li*. \n
 *ICML* Workshop on Programmatic Representations for Agent Learning, 2025.
 
@@ -243,7 +243,7 @@ S. Zhu, *S. Li*, Z. Peng, and Y. Xie. \n
 *S. Li*, L. Wang, R. Zhang, Y. Xie, N. Du, and L. Song. \n
 *NeurIPS* Workshop on Learning with Temporal Point Processes, 2019. + (Oral) +
 
-- [https://people.mpi-sws.org/~manuelgr/papers/www_2015_workshop_proceedings.pdf Co-evolutionary Dynamics of Information Diffusion and Network Structure].\n
+- [https://doi.org/10.1145/2740908.2744105 Co-evolutionary Dynamics of Information Diffusion and Network Structure].\n
 M. Farajtabar, M. Gomez-Rodriguez, Y. Wang, *S. Li*, H. Zha, and L. Song. \n
 Workshop on Activity and Events in Networks: Models, Methods Applications, in conjunction with *WWW*, 2015.
 
